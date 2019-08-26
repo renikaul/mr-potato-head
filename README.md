@@ -1,5 +1,9 @@
-#Mr. Potato Head
+# Mr. Potato Head
 
+This is an exercise that I have adapted for an intro to github workshop. The slides that go along with the workshop are [here](https://docs.google.com/presentation/d/1VViq17vH401x3aN5MPup1NbhArl-NBV9zFGFS6Hf_8U/edit?usp=sharing). Participants should set up  a github account and have downloaded the desktop program that works with github (https://desktop.github.com/). 
+
+
+****
 ![Imgur](http://i.imgur.com/Vy06FW3.gif)
 
 find **JonathanMatthey** on github.com and find the **mr-potato-head** repository
